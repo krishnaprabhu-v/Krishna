@@ -1,4 +1,1 @@
-Name:Prabhu
-school:Aditya
-College:ANU
-Office:Wipro
+prabhu
